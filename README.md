@@ -28,13 +28,13 @@ npm run test
 
 ## Run
 
-Run a development build and start a dev server at http://localhost:3000 via
+Run a development build and start a dev server at http://localhost:3001 via
 
 ```
 npm run dev
 ```
 
-Create a production build and start a server at http://localhost:3000 via
+Create a production build and start a server at http://localhost:3001 via
 
 ```
 npm run build

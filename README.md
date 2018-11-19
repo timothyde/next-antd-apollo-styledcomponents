@@ -1,4 +1,4 @@
-# Boilerplate for Testing with next
+# Boilerplate for using ant.design with Apollo, Styled Components and Next.js
 
 ### Prerequisites
 
